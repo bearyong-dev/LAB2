@@ -1,5 +1,5 @@
 <?php
     echo "Home";
-    echo "Menu:";
-    echo "Home";
+    echo "About";
+    echo "Contact";
 ?>
